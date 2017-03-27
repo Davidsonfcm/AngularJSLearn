@@ -4,6 +4,7 @@
 /app/*.js
 /app/*.map
 .vscode/*
+/package.json
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
